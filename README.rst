@@ -27,9 +27,12 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   6 monitoring Statuscake
 
   BADGE
-  
+
   .. image:: https://travis-ci.org/91cichy/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/91cichy/se_hello_printer_app
+
+  .. image:: https://app.statuscake.com/button/index.php?Track=tNTHwfY0RF&Days=1&Design=1
+    :target: https://www.statuscake.com
 
   Sprawdź: `documentację virtualenvwrappera <https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html>`_.
 
