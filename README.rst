@@ -14,9 +14,21 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
     # ubuntu, add to ~/.bashrc
   3  $ source /usr/local/bin/virtualenvwrapper.sh
 
+
   4  $ mkvirtualenv wsb-simple-flask-app
     $ pip install -r requirements.txt
     $ pip install -r test_requirements.txt
+
+  5 !!!!!!!!!!!!
+    make deps
+    make test
+    make run
+
+  6 monitoring Statuscake
+
+
+
+
 
   Sprawdź: `documentację virtualenvwrappera <https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html>`_.
 
